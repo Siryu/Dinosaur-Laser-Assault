@@ -1,0 +1,5 @@
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazersContent\obj\x86\Debug\DinosaurLazersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazersContent\obj\x86\Debug\DinosaurLazersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazersContent\obj\x86\Debug\DinosaurLazersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazersContent\obj\x86\Debug\DinosaurLazersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazersContent\obj\x86\Debug\DinosaurLazersContent.contentprojResolveAssemblyReference.cache

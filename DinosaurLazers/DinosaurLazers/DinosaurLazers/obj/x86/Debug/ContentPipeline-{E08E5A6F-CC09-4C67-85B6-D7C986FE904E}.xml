@@ -1,0 +1,1140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Backgrounds\Level1.jpg</Source>
+      <Name>Backgrounds\Level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.xnb</Output>
+      <Time>2014-09-02T09:39:00.1874372-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\healthBar.png</Source>
+      <Name>Images\healthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.xnb</Output>
+      <Time>2014-08-10T17:42:26.2796361-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\health.png</Source>
+      <Name>Images\health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.xnb</Output>
+      <Time>2014-08-10T20:04:08.8808508-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserRed.png</Source>
+      <Name>Images\redLazer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\redLazer.xnb</Output>
+      <Time>2014-08-11T17:11:30.5690196-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserGreen.png</Source>
+      <Name>Images\laserGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.xnb</Output>
+      <Time>2014-08-12T16:32:46.1148994-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserRedShot.png</Source>
+      <Name>Images\laserRedShot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRedShot.xnb</Output>
+      <Time>2014-08-10T09:49:00.9766903-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gunnerbullets.png</Source>
+      <Name>Images\gunnerbullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\gunnerbullets.xnb</Output>
+      <Time>2014-08-17T16:07:56.1758739-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\blinkerbullets.png</Source>
+      <Name>Images\blinkerbullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\blinkerbullets.xnb</Output>
+      <Time>2014-08-18T15:35:13.1509731-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\charge-powerup.png</Source>
+      <Name>Images\charge-powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\charge-powerup.xnb</Output>
+      <Time>2014-08-20T09:27:48.8118406-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\health-powerup.png</Source>
+      <Name>Images\health-powerup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health-powerup.xnb</Output>
+      <Time>2014-08-20T09:27:48.8238413-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\GreenMarsh.jpg</Source>
+      <Name>Images\Marsh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Marsh.xnb</Output>
+      <Time>2014-08-24T20:39:33.0056763-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameOver\game-over.png</Source>
+      <Name>GameOver\game-over</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\GameOver\game-over.xnb</Output>
+      <Time>2014-08-26T19:14:53.4640356-06:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSelectionScreen\Bronto.png</Source>
+      <Name>CharacterSelectionScreen\Bronto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Bronto.xnb</Output>
+      <Time>2014-08-26T19:15:28.6460479-06:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSelectionScreen\CharacterSelectionScreen-Caption.png</Source>
+      <Name>CharacterSelectionScreen\CharacterSelectionScreen-Caption</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\CharacterSelectionScreen-Caption.xnb</Output>
+      <Time>2014-08-26T19:15:28.6560485-06:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSelectionScreen\Pteradactyl.png</Source>
+      <Name>CharacterSelectionScreen\Pteradactyl</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Pteradactyl.xnb</Output>
+      <Time>2014-08-26T19:15:28.6740495-06:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSelectionScreen\Trex.png</Source>
+      <Name>CharacterSelectionScreen\Trex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Trex.xnb</Output>
+      <Time>2014-08-26T19:15:28.6890504-06:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterSelectionScreen\Triceratops.png</Source>
+      <Name>CharacterSelectionScreen\Triceratops</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Triceratops.xnb</Output>
+      <Time>2014-08-26T19:15:28.7020511-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\DinoLaserAssaultTitle.png</Source>
+      <Name>TitleScreen\DinoLaserAssaultTitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\DinoLaserAssaultTitle.xnb</Output>
+      <Time>2014-08-26T19:16:01.2629135-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\dry-bush-large.png</Source>
+      <Name>TitleScreen\dry-bush-large</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-large.xnb</Output>
+      <Time>2014-08-26T19:16:01.2729141-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\dry-bush-small.png</Source>
+      <Name>TitleScreen\dry-bush-small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-small.xnb</Output>
+      <Time>2014-08-26T19:16:01.2849148-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\fire.png</Source>
+      <Name>TitleScreen\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\fire.xnb</Output>
+      <Time>2014-08-26T19:16:01.2979155-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\light-fire.png</Source>
+      <Name>TitleScreen\light-fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\light-fire.xnb</Output>
+      <Time>2014-08-26T19:16:01.3139164-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\title-dino.png</Source>
+      <Name>TitleScreen\title-dino</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-dino.xnb</Output>
+      <Time>2014-08-26T19:16:01.323917-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\title-foreground.png</Source>
+      <Name>TitleScreen\title-foreground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-foreground.xnb</Output>
+      <Time>2014-08-26T19:16:01.340918-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\title-screen.png</Source>
+      <Name>TitleScreen\title-screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-screen.xnb</Output>
+      <Time>2014-08-26T19:16:01.3539187-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Bronto.png</Source>
+      <Name>Player\Bronto</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Bronto.xnb</Output>
+      <Time>2014-08-27T09:55:36.0384922-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Cera.png</Source>
+      <Name>Player\Cera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Cera.xnb</Output>
+      <Time>2014-08-27T09:55:36.0564932-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Ptera.png</Source>
+      <Name>Player\Ptera</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Ptera.xnb</Output>
+      <Time>2014-08-27T09:55:36.0684939-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\Trex.png</Source>
+      <Name>Player\Trex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Trex.xnb</Output>
+      <Time>2014-08-27T09:55:36.0774944-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\explosion_sheet.png</Source>
+      <Name>Images\explosion_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\explosion_sheet.xnb</Output>
+      <Time>2014-08-27T15:13:17.8578646-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseScreen\pause-menu-text.png</Source>
+      <Name>PauseScreen\pause-menu-text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\PauseScreen\pause-menu-text.xnb</Output>
+      <Time>2014-08-27T19:17:32.3231248-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TitleScreen\player-option-text.png</Source>
+      <Name>TitleScreen\player-option-text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\player-option-text.xnb</Output>
+      <Time>2014-08-28T08:52:21.8371116-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserBlue.png</Source>
+      <Name>Images\laserBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserBlue.xnb</Output>
+      <Time>2014-08-30T15:08:45.0926655-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserOrange.png</Source>
+      <Name>Images\laserOrange</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserOrange.xnb</Output>
+      <Time>2014-08-30T15:09:47.6422432-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserPurple.png</Source>
+      <Name>Images\laserPurple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserPurple.xnb</Output>
+      <Time>2014-08-30T15:09:04.1507556-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\laserYellow.png</Source>
+      <Name>Images\laserYellow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserYellow.xnb</Output>
+      <Time>2014-08-30T15:10:17.7069628-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\keyboard-graphic.png</Source>
+      <Name>Multiplayer Lobby\keyboard-graphic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\keyboard-graphic.xnb</Output>
+      <Time>2014-08-30T16:24:30.3696405-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\bronto-box.png</Source>
+      <Name>Multiplayer Lobby\bronto-box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\bronto-box.xnb</Output>
+      <Time>2014-08-30T16:47:09.8133962-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\ptera-box.png</Source>
+      <Name>Multiplayer Lobby\ptera-box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\ptera-box.xnb</Output>
+      <Time>2014-08-30T16:49:54.3588077-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\rex-box.png</Source>
+      <Name>Multiplayer Lobby\rex-box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\rex-box.xnb</Output>
+      <Time>2014-08-30T16:47:30.3315698-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\tricera-box.png</Source>
+      <Name>Multiplayer Lobby\tricera-box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\tricera-box.xnb</Output>
+      <Time>2014-08-30T16:50:24.7425456-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\gamepad-graphic.png</Source>
+      <Name>Multiplayer Lobby\gamepad-graphic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\gamepad-graphic.xnb</Output>
+      <Time>2014-08-30T17:48:52.6671874-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\lobby-title-text.png</Source>
+      <Name>Multiplayer Lobby\lobby-title-text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\lobby-title-text.xnb</Output>
+      <Time>2014-08-31T19:28:35.6857812-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\player-one-ok.png</Source>
+      <Name>Multiplayer Lobby\player-one-ok</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\player-one-ok.xnb</Output>
+      <Time>2014-08-31T21:03:16.9297298-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\P1-Marker.png</Source>
+      <Name>Player\P1-Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\P1-Marker.xnb</Output>
+      <Time>2014-08-31T23:19:33.2473884-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\P2-Marker.png</Source>
+      <Name>Player\P2-Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\P2-Marker.xnb</Output>
+      <Time>2014-08-31T23:19:33.2553889-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Multiplayer Lobby\player-two-ok.png</Source>
+      <Name>Multiplayer Lobby\player-two-ok</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\player-two-ok.xnb</Output>
+      <Time>2014-08-31T23:53:27.0577157-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\meter-labels.png</Source>
+      <Name>Images\meter-labels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-labels.xnb</Output>
+      <Time>2014-09-01T00:09:48.1168291-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\meter-player-one.png</Source>
+      <Name>Images\meter-player-one</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-player-one.xnb</Output>
+      <Time>2014-09-01T00:09:48.1288298-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\meter-player-two.png</Source>
+      <Name>Images\meter-player-two</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-player-two.xnb</Output>
+      <Time>2014-09-01T00:09:48.1368302-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\P1-Marker.png</Source>
+      <Name>Images\P1-Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\P1-Marker.xnb</Output>
+      <Time>2014-09-01T00:25:55.7471744-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\P2-Marker.png</Source>
+      <Name>Images\P2-Marker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\P2-Marker.xnb</Output>
+      <Time>2014-09-01T00:25:55.7501745-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\oil-spill.png</Source>
+      <Name>Images\oil-spill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\oil-spill.xnb</Output>
+      <Time>2014-09-01T15:31:19.3038354-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Level3.png</Source>
+      <Name>Backgrounds\Level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level3.xnb</Output>
+      <Time>2014-09-01T15:41:40.0293389-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\lava.png</Source>
+      <Name>Images\lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\lava.xnb</Output>
+      <Time>2014-09-01T15:41:44.7466087-06:00</Time>
+    </Item>
+    <Item>
+      <Source>LoadingScreen\loading-screen-ready-text.png</Source>
+      <Name>LoadingScreen\loading-screen-ready-text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\LoadingScreen\loading-screen-ready-text.xnb</Output>
+      <Time>2014-09-01T16:56:32.4282894-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Level4.png</Source>
+      <Name>Backgrounds\Level4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level4.xnb</Output>
+      <Time>2014-09-01T20:46:33.3808743-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\bomber.png</Source>
+      <Name>Enemies\bomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\bomber.xnb</Output>
+      <Time>2014-09-02T09:34:48.6580505-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\boss.png</Source>
+      <Name>Enemies\boss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss.xnb</Output>
+      <Time>2014-09-02T09:34:48.6730514-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\boss_spritesheet.png</Source>
+      <Name>Enemies\boss_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss_spritesheet.xnb</Output>
+      <Time>2014-09-02T09:34:48.6800518-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\darting.png</Source>
+      <Name>Enemies\darting</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\darting.xnb</Output>
+      <Time>2014-09-02T09:34:48.6860521-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\gunner.png</Source>
+      <Name>Enemies\gunner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\gunner.xnb</Output>
+      <Time>2014-09-02T09:34:48.6900524-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\hard.png</Source>
+      <Name>Enemies\hard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\hard.xnb</Output>
+      <Time>2014-09-02T09:34:48.6940526-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\midboss.png</Source>
+      <Name>Enemies\midboss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\midboss.xnb</Output>
+      <Time>2014-09-02T09:34:48.6970528-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\simple.png</Source>
+      <Name>Enemies\simple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\simple.xnb</Output>
+      <Time>2014-09-02T09:34:48.701053-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Clouds.png</Source>
+      <Name>Backgrounds\Clouds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Clouds.xnb</Output>
+      <Time>2014-09-02T09:38:58.3183303-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Level2.jpg</Source>
+      <Name>Backgrounds\Level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.xnb</Output>
+      <Time>2014-09-02T09:39:00.2004379-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\TreeBorder.png</Source>
+      <Name>Backgrounds\TreeBorder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\TreeBorder.xnb</Output>
+      <Time>2014-09-02T09:39:00.2064383-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Level5.jpg</Source>
+      <Name>Backgrounds\Level5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level5.xnb</Output>
+      <Time>2014-09-03T12:06:33.9037654-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SmallGreenMarsh.png</Source>
+      <Name>Images\SmallGreenMarsh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\SmallGreenMarsh.xnb</Output>
+      <Time>2014-09-03T15:30:44.1144858-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\tankdinosaur.png</Source>
+      <Name>Enemies\tankdinosaur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\tankdinosaur.xnb</Output>
+      <Time>2014-09-03T15:33:51.0581784-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\tank_spike.png</Source>
+      <Name>Enemies\tank_spike</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\tank_spike.xnb</Output>
+      <Time>2014-09-03T15:33:51.0491778-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\dudeman_spritesheet.png</Source>
+      <Name>Images\dudeman_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\dudeman_spritesheet.xnb</Output>
+      <Time>2014-09-03T15:40:15.6131736-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\firespear.png</Source>
+      <Name>Images\firespear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\firespear.xnb</Output>
+      <Time>2014-09-03T15:40:15.620174-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\spikes.png</Source>
+      <Name>Images\Spikes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Spikes.xnb</Output>
+      <Time>2014-09-03T16:02:52.0887596-06:00</Time>
+    </Item>
+    <Item>
+      <Source>PauseScreen\pause-menu-text-redone.png</Source>
+      <Name>PauseScreen\pause-menu-text-redone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\PauseScreen\pause-menu-text-redone.xnb</Output>
+      <Time>2014-09-04T08:49:01.092548-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\swamp.png</Source>
+      <Name>Images\swamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\swamp.xnb</Output>
+      <Time>2014-09-05T11:13:36.3348082-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\swamp2.png</Source>
+      <Name>Images\swamp2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\swamp2.xnb</Output>
+      <Time>2014-09-05T11:16:00.0870304-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\fireball.png</Source>
+      <Name>Enemies\fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\fireball.xnb</Output>
+      <Time>2014-09-05T11:19:28.4379474-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\spino_spritesheet.png</Source>
+      <Name>Enemies\spino_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\spino_spritesheet.xnb</Output>
+      <Time>2014-09-05T11:19:28.4529482-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\stego_ammo.png</Source>
+      <Name>Enemies\stego_ammo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\stego_ammo.xnb</Output>
+      <Time>2014-09-05T11:19:28.4629488-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\stego_spritesheet.png</Source>
+      <Name>Enemies\stego_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\stego_spritesheet.xnb</Output>
+      <Time>2014-09-05T11:19:28.4749495-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\credit-text.png</Source>
+      <Name>Images\credit-text</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\credit-text.xnb</Output>
+      <Time>2014-09-05T13:31:54.3902521-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallFont.spritefont</Source>
+      <Name>SmallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\SmallFont.xnb</Output>
+      <Time>2014-08-15T15:59:43.17903-06:00</Time>
+    </Item>
+    <Item>
+      <Source>DefaultFont.spritefont</Source>
+      <Name>DefaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\DefaultFont.xnb</Output>
+      <Time>2014-08-15T16:03:03.2724747-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2014-08-15T16:26:40.3085245-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DefaultFont.spritefont</Source>
+      <Name>Fonts\DefaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\DefaultFont.xnb</Output>
+      <Time>2014-08-18T15:38:21.0457201-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\FinishButtonFont.spritefont</Source>
+      <Name>Fonts\FinishButtonFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\FinishButtonFont.xnb</Output>
+      <Time>2014-08-18T15:38:21.0537205-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SubtextFont.spritefont</Source>
+      <Name>Fonts\SubtextFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\SubtextFont.xnb</Output>
+      <Time>2014-08-18T15:38:21.0607209-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Bidew.wav</Source>
+      <Name>Sounds\Bidew</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Bidew.xnb</Output>
+      <Time>2014-09-02T09:37:51.3254985-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Blop.wav</Source>
+      <Name>Sounds\Blop</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Blop.xnb</Output>
+      <Time>2014-09-02T09:37:51.3424995-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bronto.wav</Source>
+      <Name>Sounds\bronto</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\bronto.xnb</Output>
+      <Time>2014-09-02T09:37:51.3525001-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\enemylaser.wav</Source>
+      <Name>Sounds\enemylaser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\enemylaser.xnb</Output>
+      <Time>2014-09-02T09:37:51.3605005-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\explosion.xnb</Output>
+      <Time>2014-09-02T09:37:51.3795016-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Few.wav</Source>
+      <Name>Sounds\Few</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Few.xnb</Output>
+      <Time>2014-09-02T09:37:51.3945025-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menuCant.wav</Source>
+      <Name>Sounds\menuCant</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuCant.xnb</Output>
+      <Time>2014-09-02T09:37:51.4095033-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menuDone.wav</Source>
+      <Name>Sounds\menuDone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuDone.xnb</Output>
+      <Time>2014-09-02T09:37:51.4305045-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menuSelect.wav</Source>
+      <Name>Sounds\menuSelect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuSelect.xnb</Output>
+      <Time>2014-09-02T09:37:51.4435053-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\moveMenu.wav</Source>
+      <Name>Sounds\moveMenu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\moveMenu.xnb</Output>
+      <Time>2014-09-02T09:37:51.4485056-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Pew.wav</Source>
+      <Name>Sounds\Pew</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Pew.xnb</Output>
+      <Time>2014-09-02T09:37:51.4635064-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Ptera.wav</Source>
+      <Name>Sounds\Ptera</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Ptera.xnb</Output>
+      <Time>2014-09-02T09:37:51.4785073-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\simpleSound.wav</Source>
+      <Name>Sounds\simpleSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\simpleSound.xnb</Output>
+      <Time>2014-09-02T09:37:51.490508-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\trex.wav</Source>
+      <Name>Sounds\trex</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\trex.xnb</Output>
+      <Time>2014-09-02T09:37:51.5135093-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\tri.wav</Source>
+      <Name>Sounds\tri</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\tri.xnb</Output>
+      <Time>2014-09-02T09:37:51.5735127-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Wow.wav</Source>
+      <Name>Sounds\Wow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Wow.xnb</Output>
+      <Time>2014-09-02T09:37:51.5905137-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Punch.wav</Source>
+      <Name>Sounds\Punch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Punch.xnb</Output>
+      <Time>2014-09-05T08:56:36.5226657-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\BeatBossBGMusic.mp3</Source>
+      <Name>Sounds\Music\BeatBossBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\BeatBossBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\BeatBossBGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:14.8378433-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\CharacterSelectBGMusic.mp3</Source>
+      <Name>Sounds\Music\CharacterSelectBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\CharacterSelectBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\CharacterSelectBGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:14.8628448-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level1BossBGMusic.mp3</Source>
+      <Name>Sounds\Music\Level1BossBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BossBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BossBGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:14.9408492-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level2BossBGMusic.mp3</Source>
+      <Name>Sounds\Music\Level2BossBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BossBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BossBGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:15.0128534-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level3BGMusic.mp3</Source>
+      <Name>Sounds\Music\Level3BGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:15.0678565-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level3BossBGMusic.mp3</Source>
+      <Name>Sounds\Music\Level3BossBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BossBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BossBGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:15.1268599-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\TitleScreenBGMusic.mp3</Source>
+      <Name>Sounds\Music\TitleScreenBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\TitleScreenBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\TitleScreenBGMusic.wma</Extra>
+      <Time>2014-09-02T09:38:15.1798629-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laser.mp3</Source>
+      <Name>Sounds\laser</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\laser.xnb</Output>
+      <Time>2014-09-02T11:40:59.5470191-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level2BGMusic.mp3</Source>
+      <Name>Sounds\Music\Level2BGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BGMusic.wma</Extra>
+      <Time>2014-09-03T11:14:45.4929745-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level4BGMusic.mp3</Source>
+      <Name>Sounds\Music\Level4BGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BGMusic.wma</Extra>
+      <Time>2014-09-03T11:14:45.5039751-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level5BGMusic.mp3</Source>
+      <Name>Sounds\Music\Level5BGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BGMusic.wma</Extra>
+      <Time>2014-09-03T11:14:45.5169758-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level1BGMusic.mp3</Source>
+      <Name>Sounds\Music\Level1BGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BGMusic.wma</Extra>
+      <Time>2014-09-03T11:19:26.6970584-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level4BossBGMusic.mp3</Source>
+      <Name>Sounds\Music\Level4BossBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BossBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BossBGMusic.wma</Extra>
+      <Time>2014-09-03T11:47:57.2458962-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\Level5BossBGMusic.mp3</Source>
+      <Name>Sounds\Music\Level5BossBGMusic</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BossBGMusic.xnb</Output>
+      <Extra>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BossBGMusic.wma</Extra>
+      <Time>2014-09-03T11:49:42.2819039-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E08E5A6F-CC09-4C67-85B6-D7C986FE904E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazersContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-06:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-08-07T20:00:54.7421496-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

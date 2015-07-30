@@ -1,0 +1,143 @@
+Content\Backgrounds\Level1.xnb
+Content\Images\healthBar.xnb
+Content\Images\health.xnb
+Content\Images\redLazer.xnb
+Content\Images\laserGreen.xnb
+Content\Images\laserRedShot.xnb
+Content\Images\gunnerbullets.xnb
+Content\Images\blinkerbullets.xnb
+Content\Images\charge-powerup.xnb
+Content\Images\health-powerup.xnb
+Content\Images\Marsh.xnb
+Content\GameOver\game-over.xnb
+Content\CharacterSelectionScreen\Bronto.xnb
+Content\CharacterSelectionScreen\CharacterSelectionScreen-Caption.xnb
+Content\CharacterSelectionScreen\Pteradactyl.xnb
+Content\CharacterSelectionScreen\Trex.xnb
+Content\CharacterSelectionScreen\Triceratops.xnb
+Content\TitleScreen\DinoLaserAssaultTitle.xnb
+Content\TitleScreen\dry-bush-large.xnb
+Content\TitleScreen\dry-bush-small.xnb
+Content\TitleScreen\fire.xnb
+Content\TitleScreen\light-fire.xnb
+Content\TitleScreen\title-dino.xnb
+Content\TitleScreen\title-foreground.xnb
+Content\TitleScreen\title-screen.xnb
+Content\Player\Bronto.xnb
+Content\Player\Cera.xnb
+Content\Player\Ptera.xnb
+Content\Player\Trex.xnb
+Content\Images\explosion_sheet.xnb
+Content\PauseScreen\pause-menu-text.xnb
+Content\TitleScreen\player-option-text.xnb
+Content\Images\laserBlue.xnb
+Content\Images\laserOrange.xnb
+Content\Images\laserPurple.xnb
+Content\Images\laserYellow.xnb
+Content\Multiplayer Lobby\keyboard-graphic.xnb
+Content\Multiplayer Lobby\bronto-box.xnb
+Content\Multiplayer Lobby\ptera-box.xnb
+Content\Multiplayer Lobby\rex-box.xnb
+Content\Multiplayer Lobby\tricera-box.xnb
+Content\Multiplayer Lobby\gamepad-graphic.xnb
+Content\Multiplayer Lobby\lobby-title-text.xnb
+Content\Multiplayer Lobby\player-one-ok.xnb
+Content\Player\P1-Marker.xnb
+Content\Player\P2-Marker.xnb
+Content\Multiplayer Lobby\player-two-ok.xnb
+Content\Images\meter-labels.xnb
+Content\Images\meter-player-one.xnb
+Content\Images\meter-player-two.xnb
+Content\Images\P1-Marker.xnb
+Content\Images\P2-Marker.xnb
+Content\Images\oil-spill.xnb
+Content\Backgrounds\Level3.xnb
+Content\Images\lava.xnb
+Content\LoadingScreen\loading-screen-ready-text.xnb
+Content\Backgrounds\Level4.xnb
+Content\Enemies\bomber.xnb
+Content\Enemies\boss.xnb
+Content\Enemies\boss_spritesheet.xnb
+Content\Enemies\darting.xnb
+Content\Enemies\gunner.xnb
+Content\Enemies\hard.xnb
+Content\Enemies\midboss.xnb
+Content\Enemies\simple.xnb
+Content\Backgrounds\Clouds.xnb
+Content\Backgrounds\Level2.xnb
+Content\Backgrounds\TreeBorder.xnb
+Content\Backgrounds\Level5.xnb
+Content\Images\SmallGreenMarsh.xnb
+Content\Enemies\tankdinosaur.xnb
+Content\Enemies\tank_spike.xnb
+Content\Images\dudeman_spritesheet.xnb
+Content\Images\firespear.xnb
+Content\Images\Spikes.xnb
+Content\PauseScreen\pause-menu-text-redone.xnb
+Content\Images\swamp.xnb
+Content\Images\swamp2.xnb
+Content\Enemies\fireball.xnb
+Content\Enemies\spino_spritesheet.xnb
+Content\Enemies\stego_ammo.xnb
+Content\Enemies\stego_spritesheet.xnb
+Content\Images\credit-text.xnb
+Content\SmallFont.xnb
+Content\DefaultFont.xnb
+Content\Font.xnb
+Content\Fonts\DefaultFont.xnb
+Content\Fonts\FinishButtonFont.xnb
+Content\Fonts\SubtextFont.xnb
+Content\Sounds\Bidew.xnb
+Content\Sounds\Blop.xnb
+Content\Sounds\bronto.xnb
+Content\Sounds\enemylaser.xnb
+Content\Sounds\explosion.xnb
+Content\Sounds\Few.xnb
+Content\Sounds\menuCant.xnb
+Content\Sounds\menuDone.xnb
+Content\Sounds\menuSelect.xnb
+Content\Sounds\moveMenu.xnb
+Content\Sounds\Pew.xnb
+Content\Sounds\Ptera.xnb
+Content\Sounds\simpleSound.xnb
+Content\Sounds\trex.xnb
+Content\Sounds\tri.xnb
+Content\Sounds\Wow.xnb
+Content\Sounds\Punch.xnb
+Content\Sounds\Music\BeatBossBGMusic.xnb
+Content\Sounds\Music\CharacterSelectBGMusic.xnb
+Content\Sounds\Music\Level1BossBGMusic.xnb
+Content\Sounds\Music\Level2BossBGMusic.xnb
+Content\Sounds\Music\Level3BGMusic.xnb
+Content\Sounds\Music\Level3BossBGMusic.xnb
+Content\Sounds\Music\TitleScreenBGMusic.xnb
+Content\Sounds\laser.xnb
+Content\Sounds\Music\Level2BGMusic.xnb
+Content\Sounds\Music\Level4BGMusic.xnb
+Content\Sounds\Music\Level5BGMusic.xnb
+Content\Sounds\Music\Level1BGMusic.xnb
+Content\Sounds\Music\Level4BossBGMusic.xnb
+Content\Sounds\Music\Level5BossBGMusic.xnb
+Content\Sounds\Music\BeatBossBGMusic.wma
+Content\Sounds\Music\CharacterSelectBGMusic.wma
+Content\Sounds\Music\Level1BossBGMusic.wma
+Content\Sounds\Music\Level2BossBGMusic.wma
+Content\Sounds\Music\Level3BGMusic.wma
+Content\Sounds\Music\Level3BossBGMusic.wma
+Content\Sounds\Music\TitleScreenBGMusic.wma
+Content\Sounds\Music\Level2BGMusic.wma
+Content\Sounds\Music\Level4BGMusic.wma
+Content\Sounds\Music\Level5BGMusic.wma
+Content\Sounds\Music\Level1BGMusic.wma
+Content\Sounds\Music\Level4BossBGMusic.wma
+Content\Sounds\Music\Level5BossBGMusic.wma
+Content\Backgrounds\Level1.jpg
+Content\Images\healthBar.png
+Content\Images\health.png
+Content\Images\laserRed.png
+Content\Images\laserGreen.png
+Content\Multiplayer Lobby\keyboard-graphic.png
+Content\Multiplayer Lobby\bronto-box.png
+Content\Multiplayer Lobby\ptera-box.png
+Content\Multiplayer Lobby\rex-box.png
+Content\Multiplayer Lobby\gamepad-graphic.png

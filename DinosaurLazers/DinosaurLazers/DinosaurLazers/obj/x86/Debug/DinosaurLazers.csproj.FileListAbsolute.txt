@@ -1,0 +1,427 @@
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.exe
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.pdb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.exe
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.pdb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.png
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.jpg
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\enemyShip.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\enemyShip.png
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.png
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.png
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\redLazer.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRed.png
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\dark-purple-rectangle-hi.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\dino.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\small-purple-square.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.xnb
+C:\Users\Corey Massey\Documents\CSC160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\enemyShip.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\redLazer.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\dark-purple-rectangle-hi.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\dino.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\small-purple-square.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.jpg
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\enemyShip.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRed.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.png
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.exe
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.pdb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.exe
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.pdb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.csprojResolveAssemblyReference.cache
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\SmallFont.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\DefaultFont.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Font.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\bomber.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\darting.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\gunner.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRedShot.xnb
+C:\Users\Kelsey St Clair\Desktop\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\gunnerbullets.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\enemyShip.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\redLazer.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\bomber.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\darting.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\gunner.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRedShot.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\gunnerbullets.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\SmallFont.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\DefaultFont.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Font.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.png
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.jpg
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.png
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.png
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRed.png
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.png
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.exe
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.pdb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.exe
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.pdb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\blinkerbullets.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\blinking.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\hard.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\FinishButtonFont.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\SubtextFont.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Marsh.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\charge-powerup.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health-powerup.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\enemylaser.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\laser.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Bidew.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Blop.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Few.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Pew.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Wow.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Spikes.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\simpleSound.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuCant.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuDone.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuSelect.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\moveMenu.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\GameOver\game-over.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Bronto.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\CharacterSelectionScreen-Caption.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Pteradactyl.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Trex.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Triceratops.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\DinoLaserAssaultTitle.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-large.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-small.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\fire.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\light-fire.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-dino.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-foreground.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-screen.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Bronto.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Cera.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Ptera.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Trex.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\bronto.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Ptera.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\trex.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\tri.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\Tank.xnb
+C:\Users\Corey Massey\Documents\Pro160\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\explosion_sheet.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\redLazer.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRedShot.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\gunnerbullets.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\blinkerbullets.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\charge-powerup.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health-powerup.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Marsh.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Spikes.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\GameOver\game-over.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Bronto.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\CharacterSelectionScreen-Caption.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Pteradactyl.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Trex.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Triceratops.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\DinoLaserAssaultTitle.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-large.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-small.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\fire.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\light-fire.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-dino.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-foreground.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-screen.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Bronto.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Cera.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Ptera.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Trex.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\bomber.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\darting.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\gunner.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\hard.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\explosion_sheet.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\SmallFont.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\DefaultFont.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Font.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\FinishButtonFont.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\SubtextFont.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\enemylaser.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Bidew.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Blop.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Few.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Pew.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Wow.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\simpleSound.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuCant.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuDone.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuSelect.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\moveMenu.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\bronto.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Ptera.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\trex.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\tri.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\laser.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.jpg
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRed.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.exe
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.pdb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.csprojResolveAssemblyReference.cache
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.exe
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.pdb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\PauseScreen\pause-menu-text.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\player-option-text.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\lobby-title-text.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserBlue.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserOrange.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserPurple.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserYellow.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\SmallGreenMarsh.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\keyboard-graphic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\bronto-box.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\ptera-box.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\rex-box.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\tricera-box.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\gamepad-graphic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\keyboard-graphic.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\bronto-box.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\ptera-box.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\rex-box.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\gamepad-graphic.png
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\player-one-ok.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\player-two-ok.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\P1-Marker.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\P2-Marker.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-labels.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-player-one.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-player-two.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\P1-Marker.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\P2-Marker.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\oil-spill.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\lava.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\LoadingScreen\loading-screen-ready-text.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level4.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss_spritesheet.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\midboss.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\simple.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Clouds.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\TreeBorder.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\BeatBossBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\CharacterSelectBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BossBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BossBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BossBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\TitleScreenBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\BeatBossBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\CharacterSelectBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BossBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BossBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BossBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\TitleScreenBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BossBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BossBGMusic.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BossBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BossBGMusic.wma
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level5.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\tankdinosaur.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\tank_spike.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\dudeman_spritesheet.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\firespear.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\PauseScreen\pause-menu-text-redone.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Punch.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\swamp.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\swamp2.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\fireball.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\spino_spritesheet.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\stego_ammo.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\stego_spritesheet.xnb
+C:\Users\Kurtis Reed\Desktop\DINOLASER ASSAULT\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\credit-text.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\redLazer.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRedShot.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\gunnerbullets.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\blinkerbullets.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\charge-powerup.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health-powerup.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Marsh.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\GameOver\game-over.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Bronto.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\CharacterSelectionScreen-Caption.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Pteradactyl.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Trex.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\CharacterSelectionScreen\Triceratops.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\DinoLaserAssaultTitle.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-large.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\dry-bush-small.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\fire.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\light-fire.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-dino.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-foreground.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\title-screen.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Bronto.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Cera.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Ptera.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\Trex.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\explosion_sheet.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\PauseScreen\pause-menu-text.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\TitleScreen\player-option-text.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserBlue.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserOrange.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserPurple.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserYellow.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\keyboard-graphic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\bronto-box.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\ptera-box.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\rex-box.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\tricera-box.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\gamepad-graphic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\lobby-title-text.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\player-one-ok.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\P1-Marker.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Player\P2-Marker.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\player-two-ok.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-labels.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-player-one.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\meter-player-two.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\P1-Marker.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\P2-Marker.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\oil-spill.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level3.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\lava.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\LoadingScreen\loading-screen-ready-text.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level4.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\bomber.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\boss_spritesheet.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\darting.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\gunner.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\hard.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\midboss.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\simple.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Clouds.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level2.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\TreeBorder.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level5.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\SmallGreenMarsh.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\tankdinosaur.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\tank_spike.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\dudeman_spritesheet.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\firespear.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\Spikes.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\PauseScreen\pause-menu-text-redone.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\swamp.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\swamp2.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\fireball.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\spino_spritesheet.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\stego_ammo.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Enemies\stego_spritesheet.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\credit-text.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\SmallFont.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\DefaultFont.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Font.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\DefaultFont.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\FinishButtonFont.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Fonts\SubtextFont.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Bidew.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Blop.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\bronto.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\enemylaser.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Few.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuCant.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuDone.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\menuSelect.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\moveMenu.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Pew.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Ptera.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\simpleSound.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\trex.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\tri.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Wow.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Punch.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\BeatBossBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\CharacterSelectBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BossBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BossBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BossBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\TitleScreenBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\laser.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BossBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BossBGMusic.xnb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\BeatBossBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\CharacterSelectBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BossBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BossBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level3BossBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\TitleScreenBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level2BGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level1BGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level4BossBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Sounds\Music\Level5BossBGMusic.wma
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Backgrounds\Level1.jpg
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\healthBar.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\health.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserRed.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Images\laserGreen.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\keyboard-graphic.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\bronto-box.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\ptera-box.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\rex-box.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\Content\Multiplayer Lobby\gamepad-graphic.png
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.exe
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\bin\x86\Debug\DinosaurLazers.pdb
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.csprojResolveAssemblyReference.cache
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.exe
+C:\Users\Corey Massey\Desktop\Final Project\DinosaurLazers\DinosaurLazers\DinosaurLazers\obj\x86\Debug\DinosaurLazers.pdb
